@@ -1,4 +1,4 @@
-# [My](github.com/kumarutsav1123) Markdown (.md) cheat sheet
+# [My](github.com/kumarutsav1123) Markdown (.md) [cheat sheet](https://github.com/kumarutsav1123/markdown-cheatsheet/blob/master/code.txt) 👈
 
 # This is a title
 ## This text is smaller
@@ -56,6 +56,7 @@ Unordered list
     - Nested LI2
 
 Horizontal Line
+
 ---
 
 Also Horizontal LIne
