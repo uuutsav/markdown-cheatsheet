@@ -11,7 +11,7 @@ _This is Italics_
 ~~This is ruled over~~
 
 Links
-[Visit my profile](github.com/kumarutsav1123 "Link title")
+[Visit my profile](https://github.com/kumarutsav1123 "Link title")
 
 Images👇
 
