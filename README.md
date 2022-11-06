@@ -13,7 +13,7 @@ _This is Italics_
 Links
 [Visit my profile](github.com/kumarutsav1123 "Link title")
 
-Images
+Images👇
 
 ![Image title(won't display)](https://cdn3.emoji.gg/emojis/3052-hehe.png "Image title(will display)")
 
@@ -37,4 +37,27 @@ Tables
 |text4? |text5? |text6? |
 
 
->This text should appear as quotes
+>This text will appear as quotes
+
+Lists
+Ordered List👇
+1. Number 1
+1. Number 2 will appear 2 even if in code part its 1
+1. Number 3
+   1. Intended 1
+    1. Intended 2
+    1. Doesn't matter 3 spaces(minimum) or tab
+   1. I will still intend the same.
+
+Unordered list 
+- LI 1
+- LI 2
+    - Nested LI
+    - Nested LI2
+
+Horizontal Line
+---
+
+Also Horizontal LIne
+***
+
