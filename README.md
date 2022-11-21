@@ -10,6 +10,14 @@ _This is Italics_
 **This is bold**
 ~~This is ruled over~~
 
+
+<details>
+
+This is a text is hidden inside the dropdown.
+Note:- Dropdown can only be named 'details', IDK why.
+
+</details>
+
 Links
 [Visit my profile](https://github.com/kumarutsav1123 "Link title")
 
