@@ -18,6 +18,8 @@ Note:- Dropdown can only be named 'details', IDK why.
 
 </details>
 
+---
+
 Links
 [Visit my profile](https://github.com/kumarutsav1123 "Link title")
 
