@@ -65,6 +65,9 @@ Unordered list
     - Nested LI
     - Nested LI2
 
+Checkbox
+- [ ] A checkbox
+- [x] A checked checkbox
 Horizontal Line
 
 ---
